@@ -1,4 +1,4 @@
-# Python
+# Python mini games
 comp_guess.py, number_guessing.py, ohsom.py, quiz game.py are a simple games made by using if-else and while loop function.
 
 1. comp_guess.py is a game where the bot will guess randomly the user's number of choice in a range between 0 and upper limit number, which is set by the user.
